@@ -1,4 +1,4 @@
-## This is pycoach teaching file from freecodecamp i use this to upskill my analytics skills Thank You for this :rainbow[wonderful] content
+## This is pycoach teaching file from freecodecamp i use this to upskill my analytics skills Thank You for this wonderful content
 
 Note: The dataset for project #4 couldn't be uploaded to GitHub, but you can download it here: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
